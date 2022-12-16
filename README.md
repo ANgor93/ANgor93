@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Automated Testing with Java**
 
-- 👨‍💻 My portfolio projects [https://docs.google.com/document/d/1QAyB5DJNf5kkjt6yqMxtq5Abu-Ntu2O_DzMQllnQfVc/edit](https://docs.google.com/document/d/1QAyB5DJNf5kkjt6yqMxtq5Abu-Ntu2O_DzMQllnQfVc/edit)
+- 👨‍💻 My portfolio projects: [test plan](https://docs.google.com/document/d/1DWmTT2QiZaB2vC8j9a12iPPtNnU76-dOQsyBvopN7-U/edit?usp=sharing), [check list](https://docs.google.com/document/d/1r3oImCng8EgwBtc4MERKhk-lDMiPG6vp8TYzW97yfyA/edit?usp=sharing), [test cases](https://docs.google.com/spreadsheets/d/1CewEeTB4xnHAgkDslJbcNru02DVVxV7hAVrZ7QQN4Lc/edit?usp=sharing)
 
 - 💬 Ask me about: 
      * I can test manually and write Autotests in JUnit + Java;
