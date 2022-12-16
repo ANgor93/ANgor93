@@ -5,21 +5,20 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=angor93" alt="angor93" /></a> </p>
 
+- 🔭 My completed test items from some companies: [test task 1](https://github.com/ANgor93/GorokhovJava11TestTask)(Java), [test task 2](https://github.com/ANgor93/TestTaskIFellow/tree/main)(Java), [SQL query test task](https://github.com/ANgor93/SQL-query-test-task/tree/main)(SSMS)
 - 🌱 I’m currently learning **Automated Testing with Java**
-
 - 👨‍💻 My portfolio projects: [test plan](https://docs.google.com/document/d/1DWmTT2QiZaB2vC8j9a12iPPtNnU76-dOQsyBvopN7-U/edit?usp=sharing), [check list](https://docs.google.com/document/d/1r3oImCng8EgwBtc4MERKhk-lDMiPG6vp8TYzW97yfyA/edit?usp=sharing), [test cases](https://docs.google.com/spreadsheets/d/1CewEeTB4xnHAgkDslJbcNru02DVVxV7hAVrZ7QQN4Lc/edit?usp=sharing)
 
 - 💬 Ask me about: 
      * I can test manually and write Autotests in JUnit + Java;
-     * Basic knowledge of Java
-     * I write autotests in Java and JUnit framework using Maven/Gradle builders and
-       plugins (JaCoCo, Surefire)
-     * Experience in manual testing of sites, applications, writing test cases, test design, test plans, checklist + DevTools
-     * Preparing a test report, filing defects (Jira, Google Sheets)
-     * Ability to work with Git version control system
-     * Ability to write basic SQL queries
-     * Understand the software development lifecycle
-
+     * Basic knowledge of Java;
+     * I write autotests in Java and JUnit framework using Maven/Gradle builders and plugins (JaCoCo, Surefire);
+     * Experience in manual testing of sites, applications, writing test cases, test design, test plans, checklist + DevTools;
+     * Preparing a test report, filing defects (Jira, Google Sheets);
+     * Ability to work with Git version control system;
+     * Ability to write basic SQL queries;
+     * Understand the software development lifecycle;
+- 📄 [My resume](https://docs.google.com/document/d/1DkCR4YrlvWKydNvFKNkLoBj2m3-0RTqGfCS0LC6FDSE/edit#)
 - 📫 How to reach me **bring974@gmail.com**, **https://t.me/alexey161123**
 
 <h3 align="left">Connect with me:</h3>
