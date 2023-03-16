@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gorokhov Alexey</h1>
-<h3 align="center">Junior QA Engineer Manual + auto</h3>
+<h3 align="center">Junior QA Engineer Manual + AUTO</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=angor93&label=Profile%20views&color=0e75b6&style=flat" alt="angor93" /> </p>
 
@@ -23,7 +23,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://discord.gg/#2368" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#2368" height="30" width="40" /></a> <a href="https://t.me/alexey161123" target="blank"><img align="center" src="https://w7.pngwing.com/pngs/224/500/png-transparent-telegram-logo-computer-icons-others-miscellaneous-blue-angle.png" alt="alexey161123" height="30" width="30" /></a>
+<a href="https://discord.gg/#2368" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#2368" height="30" width="40" /></a> <a href="https://t.me/angor_93" target="blank"><img align="center" src="https://w7.pngwing.com/pngs/224/500/png-transparent-telegram-logo-computer-icons-others-miscellaneous-blue-angle.png" alt="angor_93" height="30" width="30" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
