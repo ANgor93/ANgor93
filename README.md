@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gorokhov Alexey</h1>
-<h3 align="center">QA Engineer Manual + AUTO</h3>
+<h3 align="center">QA Engineer AUTO + Manual</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=angor93&label=Profile%20views&color=0e75b6&style=flat" alt="angor93" /> </p>
 
@@ -7,17 +7,19 @@
 
 - 🔭 My completed test items from some companies: [test task 1](https://github.com/ANgor93/GorokhovJava11TestTask)(Java), [test task 2](https://github.com/ANgor93/TestTaskIFellow/tree/main)(Java), [SQL query test task](https://github.com/ANgor93/SQL-query-test-task/tree/main)(SSMS)
 - 🌱 I’m currently learning **Automated Testing with Java**
-- 👨‍💻 My **portfolio** projects: [test plan](https://docs.google.com/document/d/1DWmTT2QiZaB2vC8j9a12iPPtNnU76-dOQsyBvopN7-U/edit?usp=sharing), [check list](https://docs.google.com/document/d/1r3oImCng8EgwBtc4MERKhk-lDMiPG6vp8TYzW97yfyA/edit?usp=sharing), [test cases](https://docs.google.com/spreadsheets/d/1CewEeTB4xnHAgkDslJbcNru02DVVxV7hAVrZ7QQN4Lc/edit?usp=sharing)
+- 👨‍💻 My **portfolio** projects: [test plan](https://docs.google.com/document/d/1DWmTT2QiZaB2vC8j9a12iPPtNnU76-dOQsyBvopN7-U/edit?usp=sharing), [check list](https://docs.google.com/document/d/1r3oImCng8EgwBtc4MERKhk-lDMiPG6vp8TYzW97yfyA/edit?usp=sharing), [test cases](https://docs.google.com/spreadsheets/d/1CewEeTB4xnHAgkDslJbcNru02DVVxV7hAVrZ7QQN4Lc/edit?usp=sharing), [Diploma Project(Netology)](https://github.com/ANgor93/Diploma-NETOLOGY), exam questions from iFellow: [1.Testing UI](https://github.com/ANgor93/FinalTaskOne), 2. [Testing API](https://github.com/ANgor93/FinalTaskTwo).
 
 - 💬 Ask me about: 
-     * I can test manually and write Autotests in JUnit + Java;
-     * Basic knowledge of Java;
-     * I write autotests in Java and JUnit framework using Maven/Gradle builders and plugins (JaCoCo, Surefire);
-     * Experience in manual testing of sites, applications, writing test cases, test design, test plans, checklist + DevTools;
-     * Preparing a test report, filing defects (Jira, Google Sheets);
-     * Ability to work with Git version control system;
-     * Ability to write basic SQL queries;
-     * Understand the software development lifecycle;
+
+    * Experience in manual testing of websites and applications, writing test cases, test design, test plans, checklist + DevTools;
+    * Ability to work with Git version control system;
+    * Ability to write basic SQL queries;
+    * Understanding of the software development lifecycle;
+    * Development and maintenance of automated tests using JUnit5, Cucumber, and Selenide, which led to significant improvements in testing efficiency and accuracy;
+    * Work with RestAssured to verify API functionality and improve system stability overall;
+    * Creation of beautiful and informative test reports using Allure, which makes it easier for the development team to work;
+    * Experience with UI and API query formation, which allowed for a deeper understanding of product functionality and improved product quality.
+   
 - 📄 [My resume](https://docs.google.com/document/d/1DkCR4YrlvWKydNvFKNkLoBj2m3-0RTqGfCS0LC6FDSE/edit#)
 - 📫 How to reach me **bring974@gmail.com** 
 
