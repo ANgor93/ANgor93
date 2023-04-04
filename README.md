@@ -21,6 +21,15 @@
     * Experience with UI and API query formation, which allowed for a deeper understanding of product functionality and improved product quality.
    
 - 📄 [My resume](https://docs.google.com/document/d/1DkCR4YrlvWKydNvFKNkLoBj2m3-0RTqGfCS0LC6FDSE/edit#)
+- [Certificates](https://disk.yandex.ru/d/1ANIXsNIAhZYWQ):
+    * Postgraduate Diploma Software Tester
+    * Certificate in Automated Testing School iFellow
+    * Certificate Automated Testing Netology
+    * Certificate Manual Web Application Testing
+    * Java Development Fundamentals Certificate
+    * HTML and CSS Basics Certificate for Testers
+    * Python Programming Fundamentals Certificate
+    * Git Certificate - Version Control System
 - 📫 How to reach me **bring974@gmail.com** 
 
 <h3 align="left">Connect with me:</h3>
